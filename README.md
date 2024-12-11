@@ -1,0 +1,1 @@
+Real Estate Agility is a simple web project designed to showcase real estate information using HTML, CSS, and JavaScript. It focuses on providing a user-friendly interface for displaying property details, team information, and an overview of the company’s mission and vision.
